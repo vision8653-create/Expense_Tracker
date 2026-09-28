@@ -4,7 +4,7 @@ import json
 import os
 from datetime import date
 
-FONT = ("Times New Roman", 12)
+FONT = ("Times New Roman", 14)
 
 DATA_FILE = "expenses.json"
 
